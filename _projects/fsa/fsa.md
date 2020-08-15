@@ -25,23 +25,27 @@ sidecontent:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I1O6lpMUDqY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I collaborate with Next Gen Digital and Customer Care (DCC) vendors and FSA staff to design the digital experience for federal student aid applicants, parents, and student loan borrowers to successfully meet Next Gen DCC Design Services milestones.
-
-That includes overseeing user research, usability testing, and user input activities to ensure digital product designs and development are meeting user needs. Over the past year, I've been responsible for the design of 25+ features, including both desktop and mobile responsive designs, and over 1,325 individual prototype screens in InVision alone.
+I manage contractors and collaborate across FSA to design the digital experience for federal student aid applicants, parents, and student loan borrowers. That includes overseeing user research, usability testing, and user input activities to ensure digital product designs are meeting user needs and successfully reaching Next Gen Digital and Customer Care (DCC) milestones. 
 
 <BR>
 <BR>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XRXSgY-MXEI?start=2120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XRXSgY-MXEI?start=2120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-I established the revised Information Architecture for the new studentaid.gov, including the consolidation of studentloans.gov, nslds.ed.gov, and fsaid.ed.gov. Adhered to best practices and original research regarding the most intuitive mental models and taxonomies for students, parents, and borrowers.
+Some accomplishments include:
+<UL><LI>Over the past year, I’ve been responsible for the design of 25+ features, including both desktop and mobile responsive designs, and over 1,325 individual prototype screens in InVision as well as other platforms.</LI>
 
-And I've also established a design system and pattern library for all Federal Student Aid digital products based on FSA brand guidelines, the US Web Design System 2.0, and ongoing design work under the DCC contract. Teams using the design system include 30+ contract designers, FSA UAT testers, and FSA design leads. Includes guidance on typography, iconography, color, grids, 30+ accessible components, navigation, and illustrations.
+<LI>I established the revised Information Architecture for the new studentaid.gov website, including the consolidation of three existing websites (studentloans.gov, nslds.ed.gov, and fsaid.ed.gov). Adhered to best practices and original research regarding the most intuitive mental models and taxonomies for students, parents, and borrowers.</LI>
 
-On the research side, I've worked with vendor to produce mindsets, vision map, and user journeys to inform ongoing Rumbles, user research, and usability testing with an emphasis on FSA’s most vulnerable user populations.
+<LI>I’ve also established a design system and pattern library for all FSA digital products based on FSA brand guidelines, the US Web Design System 2.0, and ongoing design work under the DCC contract. The design system is used by 40+ contract designers, FSA UAT testers, and FSA design leads. It includes guidance on typography, iconography, color, grids, 30+ accessible components, navigation, and illustrations.</LI>
 
-And I regularly produce sketches (e.g. Notifications feature), prototypes (e.g. Loan Simulator feature), wireframes (e.g. Make a Payment feature), and other guidance in coordination with various FSA subject matter experts and stakeholders to communicate design ideas and priorities to the vendor design team and avoid churn wherever possible.
+<LI>On the research side, I’ve worked with our vendor to produce mindsets, vision map, and user journeys to inform ongoing Rumbles, user research, and usability testing with an emphasis on vulnerable user populations, such as individuals with visual disabilities and those with limited access to computers.</LI>
 
-Finally, I've assumed primary responsibility for FSA Brand Guidelines and ad hoc branding support (e.g. logo resourcing for the Chronicle of Higher Education advertisements). Began initial discussions and scoping of brand and design management working groups to oversee future office-wide brand decisions.
+<LI>I regularly produce sketches (e.g. Notifications feature), prototypes (e.g. Loan Simulator feature), wireframes (e.g. Make a Payment feature), and other guidance in coordination stakeholders. I work to communicate design ideas and priorities to the vendor design team and avoid churn wherever possible.</LI>
+
+<LI>I’m comfortable sharing our work nationally as a keynote speaker at the annual 2,000+ national FSA conference.</LI>
+
+<LI>Finally, I’ve assumed primary responsibility for FSA Brand Guidelines and ad hoc branding support (e.g. logo resourcing for the Chronicle of Higher Education advertisements). Began initial discussions and scoping of brand and design management working groups to oversee future FSA-wide brand decisions.</LI></UL>
+
 
 <hr>
