@@ -15,6 +15,7 @@ permalink: resume.html
 
 #### Lead UX Designer
 *2019–Present*   US Department of Education, Office of Federal Student Aid
+- Co-Chair, FSA Brand Working Group
 - Oversees user research, usability testing, and the digital experience for federal student aid applicants, parents, and borrowers
 - Oversaw the consolidation of studentloans.gov, nslds.ed.gov, and studentaid.gov
 - Established a design system and pattern library for all Federal Student Aid digital products
