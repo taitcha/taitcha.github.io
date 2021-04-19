@@ -4,7 +4,7 @@ layout: page
 permalink: contact.html
 ---
 
-<form class="usa-form" action="https://formspree.io/taitcha@gmail.com" method="POST">
+<form class="usa-form" action="https://formspree.io/f/xayanjzj" method="POST">
   <fieldset class="usa-fieldset">
     <!--<legend class="usa-legend">Name</legend>-->
     <span class="usa-serif">I combine content strategy with UX research and design to make things, better. Let's talk.</span>
