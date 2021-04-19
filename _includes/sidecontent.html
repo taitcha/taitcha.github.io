@@ -1,0 +1,20 @@
+
+<nav aria-label="Secondary navigation">
+ {% for item in include.items %}
+ {% if item.header %}
+  <div class="sidecontent-header">{{ item.header }}</div>
+ {% endif %}
+  <ul class="usa-sidenav">
+    <li class="sidecontent-item">
+    {% if item.html %}
+      <a href="{% if item.external == true %}{{ item.html }}{% else %}{{ item.html | relative_url }}{% endif %}" 
+         class="sidecontent-link">
+         {{ item.text }}
+      </a>
+      {% else %}
+         {{ item.text }}
+      {% endif %}
+    </li>
+  </ul>
+ {% endfor %}
+</nav>
