@@ -4,7 +4,7 @@ layout: page
 permalink: about.html
 ---
 
-![alt text](assets/img/portrait.jpg "Picture of Tait Chamberlain")
+![alt text](assets/img/portrait.png "Picture of Tait Chamberlain")
 
 *I combine content strategy with UX research and design to make things, better.*
 
