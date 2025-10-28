@@ -29,18 +29,16 @@ sidecontent:
   - text: "Reinventing the FAFSA Form after 40 years"
     html: https://youtu.be/QpYhr7xphA4?si=niAtMvTiXPU7jW4O&t=1094
     external: true
-
-
 ---
 
-<iframe width="560" height="315" src="https://youtu.be/QpYhr7xphA4?si=niAtMvTiXPU7jW4O&t=1094" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QpYhr7xphA4?si=ZYIKbrRbjLeE5Ls1&amp;start=1095" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I manage contractors and collaborate across FSA to design the digital experience for federal student aid applicants, parents, and student loan borrowers. That includes overseeing user research, usability testing, and user input activities to ensure digital product designs and design systems are meeting user needs and successfully reaching Next Gen  milestones. I also oversee the brand strategy and design for Federal Student Aid at an enterprise level.
 
 <BR>
 <BR>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XRXSgY-MXEI?start=2120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LEZ2LspjQQ?si=FIT22o3ajrRUBsk9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Some accomplishments include:
 
