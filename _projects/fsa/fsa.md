@@ -17,15 +17,23 @@ sidecontent:
     text: "Parents, Students, Borrowers"
   - header: Links
     text: 
-  - text: "2019 FSA Training Conference Session 29: Next Gen StudentAid gov Walkthrough and Coming Attractions!"
+  - text: "Pivot on a deadline"
+    html: https://www.youtube.com/watch?v=5LEZ2LspjQQ
+    external: true  
+ - text: "GovLoop panel discussion"
+    html: https://www.youtube.com/watch?v=vPiFtW9jTCs
+    external: true 
+ - text: "2019 FSA Training Conference Session 29: Next Gen StudentAid gov Walkthrough and Coming Attractions!"
     html: https://www.youtube.com/watch?v=XRXSgY-MXEI&feature=youtu.be
     external: true
-  - text: "The Digital Future of Federal Student Aid"
-    html: https://www.youtube.com/watch?v=I1O6lpMUDqY&feature=em-uploademail
+  - text: "Reinventing the FAFSA Form after 40 years"
+    html: https://youtu.be/QpYhr7xphA4?si=niAtMvTiXPU7jW4O&t=1094
     external: true
+
+
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I1O6lpMUDqY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/QpYhr7xphA4?si=niAtMvTiXPU7jW4O&t=1094" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I manage contractors and collaborate across FSA to design the digital experience for federal student aid applicants, parents, and student loan borrowers. That includes overseeing user research, usability testing, and user input activities to ensure digital product designs and design systems are meeting user needs and successfully reaching Next Gen  milestones. I also oversee the brand strategy and design for Federal Student Aid at an enterprise level.
 
