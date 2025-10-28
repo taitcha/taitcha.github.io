@@ -16,8 +16,8 @@ sidecontent:
     text: "Citizens, Academics"
   - header: Links
     text: 
-  - text: "Ferndale Open Data Portal"
-    html: http://data.ferndalemi.gov/
+  - text: "Beyond the Veil of Darkness Thesis"
+    html: https://deepblue.lib.umich.edu/handle/2027.42/143141
     external: true
   - text: "Bicentennial Lightning Talk"
     html: https://www.youtube.com/watch?v=twzjrZWChtY

@@ -4,7 +4,7 @@ layout: page
 permalink: /projects/chicago/index.html
 image: /projects/chicago/chicago_logo.png
 alt: City of Chicago logo
-description: I consulted with the City of Chicago and its vendors to ensure the upcoming 311 redesign puts citizen needs first.
+description: I consulted with the City of Chicago and its vendors to revitalize its design and ensure the 311 relaunch put citizen needs first.
 index: 3
 
 sidecontent:
@@ -19,8 +19,8 @@ sidecontent:
   - text: "Chicago.gov"
     html: https://www.chicago.gov/
     external: true
-  - text: "What's the 311?"
-    html: https://www.chicago.gov/city/en/sites/311ProjectInformation/home.html
+  - text: "City Announces Launch of New Chicago Design System"
+    html: https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2020/march/ChicagoDesignSystem.html
     external: true
 ---
 
@@ -33,7 +33,7 @@ sidecontent:
 
 [![City of Chicago DotGov Exemption Request](/projects/chicago/chicago_dotgov_original.jpg "City of Chicago DotGov Exemption Request")](/projects/chicago/chicago_dotgov_original.jpg)
 
-After over a decade of repeated attempts through two different administrations to secure a DotGov exemption, I was able to research, apply for, and successfully secure the Chicago.gov domain name exception for the City of Chicago. 
+After over a decade of repeated attempts through two different administrations to secure a DotGov exemption, I was able to research, develop, and successfully secure the Chicago.gov domain name for the City of Chicago. 
 
 ## Chicago Design System
 

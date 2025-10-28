@@ -5,14 +5,14 @@ permalink: /projects/fsa/index.html
 layout: post
 image: /projects/fsa/fsa_logo.png
 alt: FSA logo
-description: I'm the lead UX Designer for the Next Gen initiative, overseeing user research, testing, and the digital experience for 40 million applicants, parents, and borrowers.
+description: I'm the lead Service and UX Designer for the Next Gen initiative, overseeing research and design for digital services used by over 40 million citizens.
 index: 1
 
 sidecontent:
   - header: Roles
     text: "Lead UX Designer<BR>UX Researcher<BR>UI Designer<BR>Information Architect"
   - header: Tools
-    text: "Sketch<BR>InDesign"   
+    text: "Figma<BR>Sketch"   
   - header: Audience
     text: "Parents, Students, Borrowers"
   - header: Links
@@ -35,7 +35,16 @@ I manage contractors and collaborate across FSA to design the digital experience
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XRXSgY-MXEI?start=2120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 Some accomplishments include:
-<UL><LI>Over the past two years, I’ve been responsible for the design of 31+ features, including both desktop, mobile responsive, and mobile app designs, and over 3,079 individual prototype screens in InVision as well as other platforms. SLSC surveys and analytics have validated these designs with all time high scores.</LI>
+
+<UL><LI>I developed and led workshops, research, and design work on key pain points for the FAFSA form, including on Contributor Invite, Signature & Confirmation, and High School & College Search. Leading to the prioritization of key areas of form abandonment, reducing drop-off by at least 7%, and reducing support call levels by 35%.</LI>
+
+<LI>After identifying the contributor invite process as the single most impactful pain point within the FAFSA form itself, I led the concepting, prioritization, and development of the new contributor invite process for the 26-27 FAFSA form. The impact of 25-26 form abandonment at invite contributor was 5.7% of applications, or around 850,000 students. And upwards of 40% of students must stop filling out the FAFSA and wait to get their parent's SSN, creating a significant delay in completing the form. With 4.7% of all cases, not just FAFSA cases being related to contributor invite issues, the estimated cost of those cases is very large.</LI>
+
+<LI>I developed and led workshops, research, and design work on key pain points for the FAFSA form, including on Contributor Invite, Signature & Confirmation, and High School & College Search. Leading to the prioritization of key areas of form abandonment, reducing drop-off by at least 7%, and reducing support call levels by 35%.</LI>
+
+<LI>After identifying the contributor invite process as the single most impactful pain point within the FAFSA form itself, I led the concepting, prioritization, and development of the new contributor invite process for the 26-27 FAFSA form. The impact of 25-26 form abandonment at invite contributor was 5.7% of applications, or around 850,000 students. And upwards of 40% of students must stop filling out the FAFSA and wait to get their parent's SSN, creating a significant delay in completing the form. With 4.7% of all cases, not just FAFSA cases being related to contributor invite issues, the estimated cost of those cases is very large.</LI>
+
+<LI>Over the past two years, I’ve been responsible for the design of 31+ features, including both desktop, mobile responsive, and mobile app designs, and over 3,079 individual prototype screens in InVision as well as other platforms. SLSC surveys and analytics have validated these designs with all time high scores.</LI>
 
 <LI>I established the revised Information Architecture for the new studentaid.gov website, including the consolidation of three existing websites (studentloans.gov, nslds.ed.gov, and fsaid.ed.gov). Adhered to best practices and original research regarding the most intuitive mental models and taxonomies for students, parents, and borrowers.</LI>
 

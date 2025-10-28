@@ -15,11 +15,13 @@ permalink: resume.html
 
 #### Lead UX Designer
 *2019–Present*   US Department of Education, Office of Federal Student Aid
+
+- Reduced FAFSA drop-off by at least 7%, and reduced FAFSA support call levels by 35%
 - Co-Chair, FSA Brand Working Group
-- Oversees user research, usability testing, and the digital experience for federal student aid applicants, parents, and borrowers
-- Oversaw the consolidation of studentloans.gov, nslds.ed.gov, and studentaid.gov
+- Lead, Unified Borrower Portal initiative
+- Oversees user research, usability testing, and the digital experience for 40 million federal student aid applicants, parents, and borrowers
+- Oversaw the consolidation of studentloans.gov, nslds.ed.gov, fafsa.gov, and studentaid.gov
 - Established a design system and pattern library for all Federal Student Aid digital products
-- Assumed primary responsibility for FSA Brand Guidelines and working group
 
 #### UX Design Public Service Intern
 *2018*   City of Chicago
@@ -42,11 +44,6 @@ permalink: resume.html
 *2013*   Appalachian Trail
 - Hiked 2,186 miles over 14 states and 6 months to fulfill a lifelong goal
 
-#### Sr. Interactive Copywriter
-*2009–13*   ARS Advertising
-- Led development of Factory Certified Care Training Program, including training and testing apps, for Whirlpool Corporation in both the U.S. and Canada
-- Coordinated and developed interactive applications for Whirlpool, including interactive catalogs, online content audits for Sears and Home Depot, and iPad applications for Whirlpool sales teams
-
 <br />
 
 ##### EDUCATION
@@ -65,24 +62,22 @@ permalink: resume.html
       <ul>
         <li>Agile/Scrum</li>
         <li>Branding/Voice & Tone</li>
-        <li>Content Strategy</li>
-        <li>Contextual Inquiry</li>
-        <li>Information Architecture</li>
+        <li>Content Strategy/Information Architecture</li>
+        <li>Usability Testing & Research</li>
         <li>UX/UI Design</li>
-        <li>Usability Research</li>
-        <li>Copywriting/Editing</li>
+        <li>Service Design/Design Leadership</li>
       </ul>
     </div>
     <div class="usa-width-one-half">
       <h5>TOOLS</h5>
       <ul>
+        <li>Figma/Sketch</li>
         <li>Git/JIRA/Slack</li>
         <li>HTML/SASS</li>
-        <li>InDesign/Creative Cloud</li>
+        <li>Creative Cloud</li>
         <li>JavaScript</li>
         <li>Jekyll</li>
         <li>Python</li>
-        <li>Sketch/Figma</li>
       </ul>
     </div>
 </div>

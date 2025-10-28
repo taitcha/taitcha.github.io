@@ -10,12 +10,12 @@ permalink: about.html
 
 ### Preparation
 
-From Fortune 50 tech companies to really long hiking trails, I have a history of following through. I started out in advertising, working my way up from creative to strategy. Then I added UX design and research into the mix to better solve user needs.
+From the federal government to Fortune 50 tech companies, I have a history of following through for my users. And I've worn many different design and research hats, in everything from scrappy two-person teams to billion dollar contracts.
 
 ### Process
 
-Research. Prototype. Iterate. Products people love come from deeply listening to users. And even on a small budget, a user-centered process produces better results in less time. Yes, methods change—not every job needs participatory design workshops—but the process is always worthwhile.
+Research. Prototype. Iterate. Products people love come from deep empathy. And even on a small budget, a user-centered process produces better results. Yes, methods change—not every job needs participatory design workshops—but the results for users are the true test of whatever process you used.
 
 ### Passion
 
-Good causes deserve good design. I spend a lot of my time off working with  communities, law enforcement, local and national government agencies, and other public and private agencies. I'm particularly interested in the interplay between civic technology and government services.
+Good causes deserve good design. I spend a lot of my time off working with  communities, law enforcement, and local and national government agencies. I'm particularly interested in the interplay between civic technology and government services.
