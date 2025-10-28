@@ -20,10 +20,10 @@ sidecontent:
   - text: "Pivot on a deadline"
     html: https://www.youtube.com/watch?v=5LEZ2LspjQQ
     external: true  
- - text: "GovLoop panel discussion"
+  - text: "GovLoop panel discussion"
     html: https://www.youtube.com/watch?v=vPiFtW9jTCs
     external: true 
- - text: "2019 FSA Training Conference Session 29: Next Gen StudentAid gov Walkthrough and Coming Attractions!"
+  - text: "2019 FSA Training Conference Session 29: Next Gen StudentAid gov Walkthrough and Coming Attractions!"
     html: https://www.youtube.com/watch?v=XRXSgY-MXEI&feature=youtu.be
     external: true
   - text: "Reinventing the FAFSA Form after 40 years"
