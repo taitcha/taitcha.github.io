@@ -21,18 +21,6 @@ primary:
         href: /projects/ferndale/
       - text: City of Chicago Design
         href: /projects/chicago/
-      - text: Google Wallet Research
-        href: /projects/google/
-      - text: HP Content Strategist
-        href: /projects/hp/
-      - text: FCC Training Program
-        href: /projects/fcc/
-      - text: BailAssist Prototype
-        href: /projects/bailassist/
-      - text: GitHub Repos
-        href: /projects/github/
-      - text: 6th Sense Publication
-        href: /projects/6thsense/
   - text: About
     href: about.html
   - text: Contact
