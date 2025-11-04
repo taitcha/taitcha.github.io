@@ -4,10 +4,7 @@ permalink: /
 subheader: "Designer, writer, curious citizen"
 layout: home
 
-hero: # optional
-  callout:
-    alt: Senior UX & Service Designer
-    text: Leading research, design systems, and cross-agency delivery at federal scale (40M+ users). I turn policy, platforms, and people into services that work.
+## Senior UX & Service Designer, leading research, design systems, and cross-agency delivery at federal scale (40M+ users). I turn policy, platforms, and people into services that work.
 
 projects:
   - image:
