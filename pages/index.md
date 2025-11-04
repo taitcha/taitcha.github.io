@@ -1,10 +1,8 @@
 ---
 title: Portfolio
 permalink: /
-subheader: "Designer, writer, curious citizen"
+subheader: "Senior UX & Service Designer, leading research, design systems, and cross-agency delivery at federal scale (40M+ users). I turn policy, platforms, and people into services that work."
 layout: home
-
-Senior UX & Service Designer, leading research, design systems, and cross-agency delivery at federal scale (40M+ users). I turn policy, platforms, and people into services that work.
 
 projects:
   - image:
