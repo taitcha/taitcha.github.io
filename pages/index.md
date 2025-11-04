@@ -10,7 +10,7 @@ projects:
       alt: ''
     title: Federal Student Aid
     link: /projects/fsa/
-    description: I reduced FAFSA drop-off by at least 7%, and reduced support call levels by 35%
+    description: I reduced FAFSA drop-off by at least 7 percent, and reduced support call levels by 35 percent
   - image:
       src: /projects/ferndale/ferndale_logo.png
       alt: ''
