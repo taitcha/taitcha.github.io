@@ -4,10 +4,6 @@ permalink: /
 subheader: "I turn policy, platforms, and people into services that work"
 layout: home
 
-**Senior UX & Service Designer leading research, design systems, and cross-agency delivery at federal scale (40M+ users).**
-
-*I turn policy, platforms, and people into services that work.*
-
 projects:
   - image:
       src: /projects/fsa/fsa_logo.png
@@ -29,3 +25,7 @@ projects:
     description: I designed the initial style direction of Chicago's first ever Design System
 
 ---
+
+**Senior UX & Service Designer leading research, design systems, and cross-agency delivery at federal scale (40M+ users).**
+
+*I turn policy, platforms, and people into services that work.*
