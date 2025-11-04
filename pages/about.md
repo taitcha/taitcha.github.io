@@ -6,7 +6,7 @@ permalink: about.html
 
 ![alt text](assets/img/portrait.png "Picture of Tait Chamberlain")
 
-*I combine content strategy with UX research and design to make things, better.*
+*I turn policy, platforms, and people into services that work.*
 
 ### Preparation
 

@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 permalink: /
-subheader: "Senior UX & Service Designer, leading research, design systems, and cross-agency delivery at federal scale (40M+ users). I turn policy, platforms, and people into services that work."
+subheader: "I turn policy, platforms, and people into services that work"
 layout: home
 
 projects:
@@ -16,7 +16,7 @@ projects:
       alt: ''
     title: Ferndale Police Partnership
     link: /projects/ferndale/
-    description: Successfully defended the master’s thesis, Looking Beyond the Veil of Darkness: Police Traffic Citation Bias in Ferndale, MI
+    description: Successfully defended the master’s thesis, Looking Beyond the Veil of Darkness; Police Traffic Citation Bias in Ferndale, MI
   - image:
       src: /projects/chicago/chicago_logo.png
       alt: ''
